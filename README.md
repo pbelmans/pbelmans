@@ -2,7 +2,8 @@ Hi! I am a professor in mathematics at the University of Luxembourg. I have [**a
 
 Some highlights of my work are:
 * the infrastructure for the [<img src="https://stacks.math.columbia.edu/static/stacks.ico" width="16"> Stacks project](https://stacks.math.columbia.edu) (and [<img src="https://kerodon.net/static/kerodon.ico" width="16"> Kerodon](https://kerodon.net))
-* [the Hodge diamond cutter](https://cutter.ncag.info)
+* [<img src="https://cutter.ncag.info/_static/favicon.ico" width="16"> Hodge diamond cutter](https://cutter.ncag.info)
+* [<img src="https://pbelmans.ncag.info/assets/favicon-quivertools.png" width="16"> QuiverTools](https://quiver.tools)
 * online classification websites:
   - [<img src="https://www.fanography.info/static/favicon.png" width="16"> Fanography](https://fanography.info): a tool to visually study the geography of Fano 3-folds
   - [<img src="https://www.grassmannian.info/static/apple-touch-icon.png" width="16"> Grassmannian.info](https://grassmannian.info): a periodic table of (generalised) Grassmannians
