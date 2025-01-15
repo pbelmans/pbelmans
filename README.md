@@ -12,6 +12,7 @@ Some highlights of my work are:
   - [<img src="https://www.hyperkaehler.info/static/apple-touch-icon.png" width="16"> Hyperkaehler.info](https://hyperkaehler.info): the geography of irreducible holomorphic symplectic (or hyperkähler) varieties
   - [<img src="https://mgnbar.info/assets/img/apple-touch-icon.png" width="16"> Mgnbar.info](https://mgnbar.info): the geometry of Mgnbar
   - [<img src="https://superficie.info/apple-touch-icon.png" width="16"> superficie.info](https://superficie.info): interactive geography of (minimal) complex algebraic smooth surfaces
+* [`bibgetter`](https://github.com/pbelmans/bibgetter): automatically resolve MathSciNet and arXiv identifiers in LaTeX for bibliography management
 
 On my profile you can find:
 * the mathematical software that I wrote
