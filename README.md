@@ -1,4 +1,4 @@
-Hi! I am a professor in mathematics at the University of Luxembourg. I have [**a website**](https://pbelmans.ncag.info).
+Hi! I am a professor in mathematics at Utrecht University. I have [**a website**](https://pbelmans.ncag.info).
 
 Some highlights of my work are:
 * the infrastructure for the [<img src="https://stacks.math.columbia.edu/static/stacks.ico" width="16"> Stacks project](https://stacks.math.columbia.edu) (and [<img src="https://kerodon.net/static/kerodon.ico" width="16"> Kerodon](https://kerodon.net))
